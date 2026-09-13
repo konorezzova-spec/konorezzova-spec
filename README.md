@@ -6,6 +6,7 @@ Front-End Developer with hands-on experience in JavaScript, React, and Next.js. 
 
 🧰 Tech Stack  
 Front-End: HTML | CSS | JavaScript | TypeScript | React | Next.js
+
 Tools & APIs: Git | REST APIs | Vite
 
 💻 Featured Projects
