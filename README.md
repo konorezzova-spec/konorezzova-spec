@@ -11,10 +11,12 @@ JavaScript | TypeScript | Node.js | React | Next.js
 - [Pure Moment](https://github.com/konorezzova-spec/project-Pure-Moment) – Team project. A single-page website for a wedding photographer featuring categorized photo galleries, a wishlist functionality, and a contact form. Built using HTML, CSS, and JavaScript.  
 
 🗣️ Languages
+
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 📫 How to reach me:  
+
 [LinkedIn](www.linkedin.com/in/yuliia-zaika) | [Email](mailto:konorezzova@gmail.com)
 
 
