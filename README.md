@@ -1,15 +1,17 @@
 ## Hi!👋 I'm Yuliia Zaika
 
- Junior Front-End Developer | HTML | CSS | JavaScript | React | Node.js  
-Front-End developer with experience in JavaScript, React, Node.js. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in an Agile/Scrum environment, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
+Junior Front-End Developer | HTML | CSS | JavaScript | React | Node.js
+
+Front-End Developer with hands-on experience in JavaScript, React, and Next.js. Skilled in building single-page applications (SPAs), integrating REST APIs, and developing responsive user interfaces. Experienced in working in an Agile/Scrum team, using Git for version control, and applying modern development best practices. Strong problem-solving skills and a proactive approach to learning and building scalable web solutions.
 
 🧰 Tech Stack  
-JavaScript | TypeScript | Node.js | React | Next.js
+Front-End: HTML | CSS | JavaScript | TypeScript | React | Next.js
+Tools & APIs: Git | REST APIs | Vite
 
-💻Featured Projects
-- [NoteHub](https://github.com/konorezzova-spec/09-auth) – A privet notes management system with secure server-side authentication and real-time state synchronization. Tech stack: Next.js, React, TypeScript, HTML, CSS, REST API.
-  [Live page](https://09-auth-eta-gold.vercel.app)
-- [Pure Moment](https://github.com/konorezzova-spec/project-Pure-Moment) – Team project. A single-page website for a wedding photographer featuring categorized photo galleries, a wishlist functionality, and a contact form. Built using HTML, CSS, and JavaScript.  
+💻 Featured Projects
+- [NoteHub](https://github.com/konorezzova-spec/09-auth) – A private notes management system with secure server-side authentication and real-time state synchronization. Tech stack: Next.js, React, TypeScript, HTML, CSS, REST API.
+  [Live Demo](https://09-auth-eta-gold.vercel.app)
+- [Pure Moment](https://github.com/konorezzova-spec/project-Pure-Moment) – Team project. A single-page website for a wedding photographer featuring categorized photo galleries, wishlist functionality, and a contact form. Role: Team Lead / Front-End Developer. Tech stack: HTML, CSS, JavaScript, Git, REST API, Vite. [Live Demo](https://konorezzova-spec.github.io/project-Pure-Moment/)
 
 🗣️ Languages
 
@@ -18,7 +20,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 📫 How to reach me:  
 
-[LinkedIn](www.linkedin.com/in/yuliia-zaika) | [Email](mailto:konorezzova@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yuliia-zaika) | [Email](mailto:konorezzova@gmail.com)
 
 
 <!--
