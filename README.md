@@ -8,8 +8,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 
 💻Featured Projects
 - [NoteHub](https://github.com/konorezzova-spec/09-auth) – A privet notes management system with secure server-side authentication and real-time state synchronization. Tech stack: Next.js, React, TypeScript, HTML, CSS, REST API.
-  
-  Live page:(https://09-auth-eta-gold.vercel.app)
+  [Live page](https://09-auth-eta-gold.vercel.app)
 - [Pure Moment](https://github.com/konorezzova-spec/project-Pure-Moment) – Team project. A single-page website for a wedding photographer featuring categorized photo galleries, a wishlist functionality, and a contact form. Built using HTML, CSS, and JavaScript.  
 
 🗣️ Languages
